@@ -1,4 +1,6 @@
 # hse21_hw1
+ Создание директории и создание ссылок на файлы
+ 
   mkdir homework1
   
   cd homework1
