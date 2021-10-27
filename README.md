@@ -23,5 +23,21 @@
 
  seqtk sample -s725 oilMP_S4_L001_R2_001.fastq 1500000 > MP2_sub.fastq
 
+ Оценка качества исходных чтений
+ 
+ mkdir fastqc
 
+mkdir fastqc
+
+ls *.fq | xargs -P 4 -tI{} fastqc -o fastqc {}
+
+mkdir multiqc
+
+multiqc -o multiqc fastqc 
+
+Оценка platanusом
+
+platanus_trim sub_R1.fq sub_R2.fq 
+
+platanus_internal_trim mp_R1.fq mp_R2.fq
 
