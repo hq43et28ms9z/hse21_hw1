@@ -40,6 +40,7 @@
      platanus_trim sub_R1.fq sub_R2.fq 
 
      platanus_internal_trim mp_R1.fq mp_R2.fq
+![rqecec](https://user-images.githubusercontent.com/91056319/139139694-bc4f9e6d-93f2-420e-9729-2c7530cd02f1.JPG)
 
 Удаление ненужных файлов/ссылок
 
@@ -58,10 +59,6 @@
      rm -r oilMP_S4_L001_R1_001.fastq
 
      rm -r oilMP_S4_L001_R2_001.fastq
-
-
-
-
 
 
 
