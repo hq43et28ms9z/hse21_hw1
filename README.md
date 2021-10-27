@@ -60,7 +60,9 @@
 
      rm -r oilMP_S4_L001_R2_001.fastq
 
-
+Сборка контигов
+     
+     platanus assemble -f oil_R1_rnd.fastq.trimmed oil_R2_rnd.fastq.trimmed
 
 
 
