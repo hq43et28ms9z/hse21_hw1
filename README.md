@@ -63,6 +63,10 @@
 Сборка контигов
      
      platanus assemble -f oil_R1_rnd.fastq.trimmed oil_R2_rnd.fastq.trimmed
+![111111](https://user-images.githubusercontent.com/91056319/139144323-e7f02f18-717b-4e15-916b-c377a1cb4e34.JPG)
+![2222222](https://user-images.githubusercontent.com/91056319/139144329-16f71c96-f4cf-4fe8-92c0-e56f3739c5fa.JPG)
+![333333](https://user-images.githubusercontent.com/91056319/139144332-6dd7da80-7805-4e0a-87c1-24e0819252ce.JPG)
+
 
 
 
