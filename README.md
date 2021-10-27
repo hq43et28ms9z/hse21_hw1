@@ -13,7 +13,7 @@
   
   ln -s /usr/share/data-minor-bioinf/assembly/oilMP_S4_L001_R2_001.fastq
   
-Случайные чтения
+ Случайные чтения
 
  seqtk sample -s725 oil_R1.fastq 5000000 > R1_sub.fastq
 
