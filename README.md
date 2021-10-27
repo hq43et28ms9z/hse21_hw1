@@ -41,3 +41,30 @@ platanus_trim sub_R1.fq sub_R2.fq
 
 platanus_internal_trim mp_R1.fq mp_R2.fq
 
+Удаление ненужных файлов/ссылок
+
+rm R1_sub.fastq
+
+rm R2_sub.fastq
+
+rm MP1_sub.fastq
+
+rm MP2_sub.fastq
+
+rm -r oil_R1.fastq
+
+rm -r oil_R2.fastq
+
+rm -r oilMP_S4_L001_R1_001.fastq
+
+rm -r oilMP_S4_L001_R2_001.fastq
+
+
+
+
+
+
+
+
+
+
