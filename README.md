@@ -33,6 +33,10 @@
 
      multiqc -o multiqc fastqc 
 
+  ![mugteaff](https://user-images.githubusercontent.com/91056319/144723700-9d1ba8ff-2f85-489d-9a71-983757cb9d60.JPG)
+  ![g,nioqrg,eiofrv](https://user-images.githubusercontent.com/91056319/144723738-dd203f86-85ef-4b65-ba98-696f551ed22c.JPG)
+  ![likryutdukmjhn](https://user-images.githubusercontent.com/91056319/144723739-2af67ea2-32fe-45bb-b36c-5e7c8bfd8cd1.JPG)
+
 
 
 Оценка platanusом
