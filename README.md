@@ -33,6 +33,8 @@
 
      multiqc -o multiqc fastqc 
 
+
+
 Оценка platanusом
 
      platanus_trim R1_sub.fastq R2_sub.fastq 
