@@ -38,7 +38,11 @@
      platanus_trim R1_sub.fastq R2_sub.fastq 
 
      platanus_internal_trim MP1_sub.fastq MP2_sub.fastq
-![rqecec](https://user-images.githubusercontent.com/91056319/139139694-bc4f9e6d-93f2-420e-9729-2c7530cd02f1.JPG)
+ 
+ ![reqsec](https://user-images.githubusercontent.com/91056319/144723403-b4d2cb0f-f261-4133-aa39-bae202c6c8db.JPG)
+
+ ![reqsec2](https://user-images.githubusercontent.com/91056319/144723414-f812b5d5-1ad7-4493-8e63-a8f84f4e4093.JPG)
+
 
 Удаление ненужных файлов/ссылок
 
