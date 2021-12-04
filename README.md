@@ -67,6 +67,15 @@
      rm -r oilMP_S4_L001_R1_001.fastq
 
      rm -r oilMP_S4_L001_R2_001.fastq
+   
+ Оценка обрезанных чтений (файл multiqc_report2)
+ 
+     mkdir fastqc_trim
+     mkdir multiqc_trim
+     ls *fq* | xargs -tI{} fastqc -o fastqc_trim {}
+     multiqc -o multiqc_trim fastqc_trim
+     
+![реуткцре](https://user-images.githubusercontent.com/91056319/144724236-10f18602-9d98-4903-9d63-f54f4d1fa543.JPG) 
 
 Сборка контигов
      
