@@ -23,7 +23,7 @@
 
      seqtk sample -s725 oilMP_S4_L001_R2_001.fastq 1500000 > MP2_sub.fastq
 
- Оценка качества исходных чтений
+ Оценка качества исходных чтений (В папке data лежат .fastqc–файлы с оценками R1_sub.fastq, R2_sub.fastq, MP1_sub.fastq, MP2_sub.fastq)
  
      mkdir fastqc
 
