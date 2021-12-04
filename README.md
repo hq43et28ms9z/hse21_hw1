@@ -27,9 +27,7 @@
  
      mkdir fastqc
 
-     mkdir fastqc
-
-     ls *.fq | xargs -P 4 -tI{} fastqc -o fastqc {}
+     ls *.fastq | xargs -P 4 -tI{} fastqc -o fastqc {}
 
      mkdir multiqc
 
